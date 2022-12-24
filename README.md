@@ -1,5 +1,5 @@
 # ARTIFICIAL INTELLIGENCE
-# Lecturer: Bsc. Truong Thi Ngoc Phuong
+# Lecturer: MSc. Truong Thi Ngoc Phuong
 ## This is the link github official of my group project.
 ### :busts_in_silhouette:Student name: 
 ####       Nguyen Minh Tri 20110422 
