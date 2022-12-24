@@ -1,4 +1,4 @@
-# ARTIFICIAL INTELLIGENCE
+# CLOUD COMPUTING
 # Lecturer: MSc. Truong Thi Ngoc Phuong
 ## This is the link github official of my group project.
 ### :busts_in_silhouette:Student name: 
